@@ -1,0 +1,9 @@
+Package: ggd3
+Title: R Wrapper For ggd3.js
+Version: 0.1.0
+Authors@R: person("Ben", "Hunter", , "bjameshunter@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph)
+Depends: R (>= 3.1.2)
+Date: 2015-03-14
+License: GPL (>=3)
+LazyData: true
